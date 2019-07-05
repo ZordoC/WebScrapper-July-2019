@@ -1,5 +1,4 @@
-I think this is pretty much adaptable to any website that is structure in a page = 1 , page = 2 , page = 3 .... format , also I think it would be
-	# My first webscapper
+# My first webscapper
 
 
 I have always been interested in knowing how webscrapping actually wokrs, so I build this simple scrapper using beautifull soup.
